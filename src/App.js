@@ -7,7 +7,6 @@ import Routes from "./Routes";
 import { onError } from "./libs/errorLib";
 import { Nav } from 'react-bootstrap';
 import Navbar from "react-bootstrap/Navbar";
-import Notes from "./containers/Notes";
 import "./App.css";
 
 function App() {
